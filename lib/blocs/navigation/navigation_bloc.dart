@@ -25,13 +25,16 @@ class NavigationBloc extends Bloc<NavigationEvent, NavigationState> {
     }
   }
 
-    @override
-   void onTransition(Transition<NavigationEvent, NavigationState> transition) {
-     
+  //   @override
+  //  void onTransition(Transition<NavigationEvent, NavigationState> transition) {
+  //    print("Current state of navigation bloc: ${transition.currentState}");
+  //    print("Most recent navigation bloc event: ${transition.event}");
+  //    print("Next destination: ${transition.event.destination}");
+  //    print("Next state of navigation bloc: ${transition.nextState}");
 
-     super.onTransition(transition);
+  //    super.onTransition(transition);
   
 
-   }
+  //  }
   
 }
