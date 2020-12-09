@@ -1,4 +1,4 @@
-# A Test Note Taking App For Flutter
+# A Test Note Taking App Created Using Flutter
 
 Pull requests will be denied if files are not named using the naming conventions which are listed in the app.
 
