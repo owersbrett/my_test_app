@@ -7,8 +7,8 @@ If changes are to be made to existing files of someone else's creation, precise 
 When adding features and classes, always create new files. BloC states and events are exempt, but these files shall be limited to one abstract class per file.
 
 ## Known Bugs
-
-[] Notes are listed as though they are all the same note. See if you can find out why!
+[x] Notes are not being created.
+[ ] Notes are listed as though they are all the same note. See if you can find out why!
 
 ## Future Features 
 
